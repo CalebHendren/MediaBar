@@ -1,5 +1,5 @@
 /*
-*   Copyright 2019-2024 Panagiotis Panagiotopoulos <panagiotopoulos.git@gmail.com>
+*   Copyright 2019-2025 Panagiotis Panagiotopoulos <panagiotopoulos.git@gmail.com>
 *
 * 	This file is part of MediaBar.
 *
@@ -16,8 +16,6 @@
 *   You should have received a copy of the GNU General Public License
 *   along with MediaBar. If not, see <https://www.gnu.org/licenses/>.
 */
-
-import QtQuick
 
 import org.kde.plasma.configuration
 

@@ -1,5 +1,5 @@
 /*
-*   Copyright 2019-2024 Panagiotis Panagiotopoulos <panagiotopoulos.git@gmail.com>
+*   Copyright 2019-2025 Panagiotis Panagiotopoulos <panagiotopoulos.git@gmail.com>
 *
 * 	This file is part of MediaBar.
 *
@@ -22,7 +22,6 @@ import QtQuick.Layouts
 
 import org.kde.plasma.plasmoid
 import org.kde.plasma.core as PlasmaCore
-import org.kde.plasma.private.mediacontroller
 import org.kde.plasma.private.mpris as Mpris
 import org.kde.kirigami as Kirigami
 
