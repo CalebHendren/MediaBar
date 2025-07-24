@@ -21,7 +21,7 @@ Or simply copy/paste:
 ```
 git clone https://github.com/panagiotopoulos/MediaBar.git
 cd MediaBar`
-`kpackagetool6 -t Plasma/Applet --install .
+kpackagetool6 -t Plasma/Applet --install .
 ```
 
 ## Configuration
