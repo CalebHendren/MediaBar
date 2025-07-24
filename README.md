@@ -20,7 +20,7 @@ Download the code from this repository, enter the downloaded directory (where th
 Or copy/paste:
 ```
 git clone https://github.com/panagiotopoulos/MediaBar.git
-cd MediaBar`
+cd MediaBar
 kpackagetool6 -t Plasma/Applet --install .
 ```
 
